@@ -37,3 +37,8 @@ p.intro {
 img.intro {
   box-shadow: 8px 5px 5px #999;
 }
+
+#intro {
+  color: blue;
+  
+}
