@@ -25,3 +25,15 @@ h3 {
   color: #ff8b8b;
   font-style: italic;
 }
+
+h2.intro {
+  font-weight:bold;
+}
+
+p.intro {
+  font-family:georgia;
+}
+
+img.intro {
+  box-shadow: 8px 5px 5px #999;
+}
